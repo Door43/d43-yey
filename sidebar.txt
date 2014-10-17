@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yey:home|Door43 (yey)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yey|d43-yey repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yey/archive/master.zip|d43-yey.zip]]
+
+**Recent Changes**
+{{changes>ns = yey}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yey|Ethnologue data]]
+
